@@ -1,10 +1,10 @@
-## Portfolio
+## My portfolio
 
 ---
 
-### Category Name 1 
+### Python projects
 
-[Project 1 Title](/sample_page)
+[mtcars project](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
